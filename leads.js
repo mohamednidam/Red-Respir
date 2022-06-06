@@ -30,7 +30,7 @@
 
         // Fire off the request to /form.php
         request = $.ajax({
-            url: "https://script.google.com/macros/s/AKfycbzEeFyFPCb3897gIyvWlcGSXCrklzR3rJ5TyBWUnqyU3hdZ5lgo08i1qJ0L7F-Qh3rLhQ/exec",
+            url: "https://script.google.com/macros/s/AKfycbz2g2pl2g2oNjYCLWqpNgm4s-ClxTyqjsAx4majQFHkB6ci2fodMx1n7CFCNQ8BEn9e/exec",
             type: "post",
             data: serializedData
         });
